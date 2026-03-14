@@ -9,12 +9,12 @@ st.markdown("Ball-by-ball analysis of ODI, T20I and Test matches (2005–2020)")
 
 @st.cache_data
 def load_data():
-    batting = pd.read_csv('../Data/odi_batting_summary.csv')
-    bowling = pd.read_csv('../Data/odi_bowling_summary.csv')
-    teams   = pd.read_csv('../Data/odi_team_stats.csv')
+    batting = pd.read_csv('Data/odi_batting_summary.csv')
+    bowling = pd.read_csv('Data/odi_bowling_summary.csv')
+    teams   = pd.read_csv('Data/odi_team_stats.csv')
     return batting, bowling, teams
-
 batting, bowling, teams = load_data()
+
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total Matches", "1,962")
