@@ -1,0 +1,327 @@
+team1,team2,matches,wins,losses,win_pct
+Afghanistan,Australia,2,0,2,0.0
+Afghanistan,Bangladesh,7,4,3,57.1
+Afghanistan,Canada,3,2,1,66.7
+Afghanistan,England,2,1,1,50.0
+Afghanistan,India,3,0,3,0.0
+Afghanistan,Ireland,22,13,9,59.1
+Afghanistan,Kenya,1,0,1,0.0
+Afghanistan,Netherlands,4,3,1,75.0
+Afghanistan,New Zealand,2,0,2,0.0
+Afghanistan,Pakistan,4,0,4,0.0
+Afghanistan,Scotland,6,2,4,33.3
+Afghanistan,South Africa,4,1,3,25.0
+Afghanistan,Sri Lanka,7,2,5,28.6
+Afghanistan,United Arab Emirates,3,1,2,33.3
+Afghanistan,West Indies,4,1,3,25.0
+Afghanistan,Zimbabwe,16,11,5,68.8
+Africa XI,Asia XI,2,1,1,50.0
+Asia XI,Africa XI,4,4,0,100.0
+Australia,Afghanistan,2,2,0,100.0
+Australia,Bangladesh,7,6,1,85.7
+Australia,England,44,22,22,50.0
+Australia,India,46,23,23,50.0
+Australia,Ireland,2,2,0,100.0
+Australia,Kenya,1,1,0,100.0
+Australia,Netherlands,2,2,0,100.0
+Australia,New Zealand,31,21,10,67.7
+Australia,Pakistan,27,17,10,63.0
+Australia,Scotland,3,3,0,100.0
+Australia,South Africa,31,15,16,48.4
+Australia,Sri Lanka,22,13,9,59.1
+Australia,West Indies,28,22,6,78.6
+Australia,World-XI,3,3,0,100.0
+Australia,Zimbabwe,4,2,2,50.0
+Bangladesh,Afghanistan,12,8,4,66.7
+Bangladesh,Australia,9,0,9,0.0
+Bangladesh,England,13,4,9,30.8
+Bangladesh,India,15,3,12,20.0
+Bangladesh,Ireland,9,5,4,55.6
+Bangladesh,Netherlands,1,0,1,0.0
+Bangladesh,New Zealand,21,5,16,23.8
+Bangladesh,Pakistan,9,2,7,22.2
+Bangladesh,South Africa,9,3,6,33.3
+Bangladesh,Sri Lanka,18,5,13,27.8
+Bangladesh,United Arab Emirates,1,1,0,100.0
+Bangladesh,West Indies,14,5,9,35.7
+Bangladesh,Zimbabwe,34,23,11,67.6
+Bermuda,Bangladesh,1,0,1,0.0
+Bermuda,Canada,3,1,2,33.3
+Bermuda,Kenya,4,0,4,0.0
+Bermuda,Netherlands,2,0,2,0.0
+Bermuda,West Indies,1,0,1,0.0
+Canada,Afghanistan,2,0,2,0.0
+Canada,Australia,1,0,1,0.0
+Canada,Bermuda,2,2,0,100.0
+Canada,Ireland,3,0,3,0.0
+Canada,Jersey,1,1,0,100.0
+Canada,Kenya,6,0,6,0.0
+Canada,Nepal,3,1,2,33.3
+Canada,Netherlands,5,0,5,0.0
+Canada,Oman,1,1,0,100.0
+Canada,Papua New Guinea,1,1,0,100.0
+Canada,Scotland,3,1,2,33.3
+Canada,United Arab Emirates,2,1,1,50.0
+Canada,United States of America,1,1,0,100.0
+Canada,West Indies,1,0,1,0.0
+England,Afghanistan,1,1,0,100.0
+England,Australia,39,13,26,33.3
+England,Bangladesh,8,7,1,87.5
+England,Canada,1,1,0,100.0
+England,India,28,8,20,28.6
+England,Ireland,9,6,3,66.7
+England,Netherlands,2,2,0,100.0
+England,New Zealand,27,11,16,40.7
+England,Pakistan,20,13,7,65.0
+England,Scotland,2,2,0,100.0
+England,South Africa,22,10,12,45.5
+England,Sri Lanka,17,6,11,35.3
+England,West Indies,18,11,7,61.1
+Hong Kong,Afghanistan,2,1,1,50.0
+Hong Kong,Pakistan,1,0,1,0.0
+Hong Kong,Papua New Guinea,5,3,2,60.0
+Hong Kong,Scotland,2,1,1,50.0
+Hong Kong,United Arab Emirates,4,2,2,50.0
+India,Afghanistan,1,1,0,100.0
+India,Australia,25,11,14,44.0
+India,Bangladesh,12,7,5,58.3
+India,Bermuda,1,1,0,100.0
+India,England,31,17,14,54.8
+India,Hong Kong,2,2,0,100.0
+India,Netherlands,1,1,0,100.0
+India,New Zealand,22,11,11,50.0
+India,Pakistan,20,11,9,55.0
+India,South Africa,19,11,8,57.9
+India,Sri Lanka,39,21,18,53.8
+India,West Indies,36,23,13,63.9
+India,Zimbabwe,8,6,2,75.0
+Ireland,Afghanistan,10,5,5,50.0
+Ireland,Australia,3,0,3,0.0
+Ireland,Bangladesh,7,1,6,14.3
+Ireland,Canada,5,3,2,60.0
+Ireland,England,6,0,6,0.0
+Ireland,India,3,0,3,0.0
+Ireland,Kenya,5,3,2,60.0
+Ireland,Netherlands,5,3,2,60.0
+Ireland,New Zealand,2,0,2,0.0
+Ireland,Oman,1,0,1,0.0
+Ireland,Pakistan,4,0,4,0.0
+Ireland,Scotland,8,4,4,50.0
+Ireland,South Africa,4,2,2,50.0
+Ireland,Sri Lanka,1,0,1,0.0
+Ireland,United Arab Emirates,6,5,1,83.3
+Ireland,West Indies,8,0,8,0.0
+Ireland,Zimbabwe,11,4,7,36.4
+Jersey,Namibia,1,0,1,0.0
+Jersey,Papua New Guinea,1,1,0,100.0
+Kenya,Afghanistan,5,1,4,20.0
+Kenya,Bangladesh,3,0,3,0.0
+Kenya,Canada,5,1,4,20.0
+Kenya,England,1,0,1,0.0
+Kenya,Ireland,3,0,3,0.0
+Kenya,Netherlands,4,0,4,0.0
+Kenya,New Zealand,1,0,1,0.0
+Kenya,Scotland,3,0,3,0.0
+Kenya,South Africa,1,0,1,0.0
+Kenya,Sri Lanka,1,0,1,0.0
+Kenya,Zimbabwe,4,1,3,25.0
+Namibia,Canada,1,1,0,100.0
+Namibia,Nepal,5,3,2,60.0
+Namibia,Netherlands,2,1,1,50.0
+Namibia,Oman,7,5,2,71.4
+Namibia,Papua New Guinea,4,4,0,100.0
+Namibia,Scotland,3,0,3,0.0
+Namibia,United Arab Emirates,4,0,4,0.0
+Namibia,United States of America,6,3,3,50.0
+Nepal,Canada,2,1,1,50.0
+Nepal,India,1,0,1,0.0
+Nepal,Ireland,1,0,1,0.0
+Nepal,Namibia,3,0,3,0.0
+Nepal,Netherlands,3,1,2,33.3
+Nepal,Oman,4,1,3,25.0
+Nepal,Papua New Guinea,3,2,1,66.7
+Nepal,Scotland,4,0,4,0.0
+Nepal,United Arab Emirates,4,3,1,75.0
+Nepal,United States of America,4,1,3,25.0
+Nepal,Zimbabwe,1,0,1,0.0
+Netherlands,Afghanistan,6,1,5,16.7
+Netherlands,Bangladesh,2,1,1,50.0
+Netherlands,Bermuda,2,1,1,50.0
+Netherlands,Canada,4,3,1,75.0
+Netherlands,England,3,0,3,0.0
+Netherlands,India,1,0,1,0.0
+Netherlands,Ireland,5,1,4,20.0
+Netherlands,Kenya,4,2,2,50.0
+Netherlands,Nepal,2,1,1,50.0
+Netherlands,New Zealand,1,0,1,0.0
+Netherlands,Oman,2,1,1,50.0
+Netherlands,Pakistan,1,0,1,0.0
+Netherlands,Scotland,5,1,4,20.0
+Netherlands,South Africa,2,1,1,50.0
+Netherlands,Sri Lanka,1,0,1,0.0
+Netherlands,United Arab Emirates,1,1,0,100.0
+Netherlands,United States of America,2,2,0,100.0
+Netherlands,West Indies,2,0,2,0.0
+Netherlands,Zimbabwe,2,0,2,0.0
+New Zealand,Afghanistan,1,1,0,100.0
+New Zealand,Australia,19,5,14,26.3
+New Zealand,Bangladesh,17,10,7,58.8
+New Zealand,Canada,2,2,0,100.0
+New Zealand,England,15,6,9,40.0
+New Zealand,India,24,9,15,37.5
+New Zealand,Ireland,4,4,0,100.0
+New Zealand,Kenya,1,1,0,100.0
+New Zealand,Netherlands,3,3,0,100.0
+New Zealand,Pakistan,24,16,8,66.7
+New Zealand,South Africa,17,4,13,23.5
+New Zealand,Sri Lanka,25,11,14,44.0
+New Zealand,West Indies,17,11,6,64.7
+New Zealand,Zimbabwe,8,6,2,75.0
+Oman,Canada,1,0,1,0.0
+Oman,Namibia,3,1,2,33.3
+Oman,Nepal,4,2,2,50.0
+Oman,Netherlands,1,1,0,100.0
+Oman,Papua New Guinea,2,2,0,100.0
+Oman,Scotland,3,0,3,0.0
+Oman,Sri Lanka,1,0,1,0.0
+Oman,United Arab Emirates,5,2,3,40.0
+Oman,United States of America,3,3,0,100.0
+Oman,West Indies,1,0,1,0.0
+Pakistan,Afghanistan,4,3,1,75.0
+Pakistan,Australia,15,0,15,0.0
+Pakistan,Bangladesh,12,10,2,83.3
+Pakistan,Canada,1,1,0,100.0
+Pakistan,England,19,5,14,26.3
+Pakistan,Hong Kong,1,1,0,100.0
+Pakistan,India,20,7,13,35.0
+Pakistan,Ireland,3,1,2,33.3
+Pakistan,Kenya,1,1,0,100.0
+Pakistan,Nepal,1,1,0,100.0
+Pakistan,Netherlands,3,3,0,100.0
+Pakistan,New Zealand,16,6,10,37.5
+Pakistan,Scotland,1,1,0,100.0
+Pakistan,South Africa,21,10,11,47.6
+Pakistan,Sri Lanka,23,12,11,52.2
+Pakistan,United Arab Emirates,1,1,0,100.0
+Pakistan,West Indies,20,13,7,65.0
+Pakistan,Zimbabwe,17,15,2,88.2
+Papua New Guinea,Hong Kong,3,2,1,66.7
+Papua New Guinea,Ireland,1,0,1,0.0
+Papua New Guinea,Namibia,3,0,3,0.0
+Papua New Guinea,Nepal,7,1,6,14.3
+Papua New Guinea,Oman,4,0,4,0.0
+Papua New Guinea,Scotland,5,0,5,0.0
+Papua New Guinea,United Arab Emirates,5,3,2,60.0
+Papua New Guinea,United States of America,3,1,2,33.3
+Papua New Guinea,West Indies,1,0,1,0.0
+Scotland,Afghanistan,7,1,6,14.3
+Scotland,Australia,1,0,1,0.0
+Scotland,Bangladesh,1,0,1,0.0
+Scotland,Canada,5,2,3,40.0
+Scotland,England,3,1,2,33.3
+Scotland,Hong Kong,3,1,2,33.3
+Scotland,India,1,0,1,0.0
+Scotland,Ireland,10,0,10,0.0
+Scotland,Kenya,4,3,1,75.0
+Scotland,Namibia,5,4,1,80.0
+Scotland,Nepal,4,0,4,0.0
+Scotland,Netherlands,5,1,4,20.0
+Scotland,New Zealand,3,0,3,0.0
+Scotland,Oman,6,4,2,66.7
+Scotland,Pakistan,1,0,1,0.0
+Scotland,Papua New Guinea,5,4,1,80.0
+Scotland,South Africa,1,0,1,0.0
+Scotland,United Arab Emirates,11,7,4,63.6
+Scotland,United States of America,3,2,1,66.7
+Scotland,West Indies,1,0,1,0.0
+Scotland,Zimbabwe,3,2,1,66.7
+South Africa,Afghanistan,1,0,1,0.0
+South Africa,Australia,23,15,8,65.2
+South Africa,Bangladesh,9,6,3,66.7
+South Africa,England,21,7,14,33.3
+South Africa,India,29,15,14,51.7
+South Africa,Ireland,7,7,0,100.0
+South Africa,Kenya,1,1,0,100.0
+South Africa,Netherlands,5,4,1,80.0
+South Africa,New Zealand,16,6,10,37.5
+South Africa,Pakistan,25,14,11,56.0
+South Africa,Sri Lanka,18,15,3,83.3
+South Africa,United Arab Emirates,1,1,0,100.0
+South Africa,West Indies,16,11,5,68.8
+South Africa,Zimbabwe,14,14,0,100.0
+Sri Lanka,Afghanistan,8,6,2,75.0
+Sri Lanka,Australia,27,11,16,40.7
+Sri Lanka,Bangladesh,28,19,9,67.9
+Sri Lanka,Bermuda,1,1,0,100.0
+Sri Lanka,Canada,1,1,0,100.0
+Sri Lanka,England,30,14,16,46.7
+Sri Lanka,India,53,12,41,22.6
+Sri Lanka,Ireland,4,4,0,100.0
+Sri Lanka,Netherlands,2,2,0,100.0
+Sri Lanka,New Zealand,26,9,17,34.6
+Sri Lanka,Pakistan,31,12,19,38.7
+Sri Lanka,Scotland,4,4,0,100.0
+Sri Lanka,South Africa,24,11,13,45.8
+Sri Lanka,United Arab Emirates,2,2,0,100.0
+Sri Lanka,West Indies,16,8,8,50.0
+Sri Lanka,Zimbabwe,11,6,5,54.5
+United Arab Emirates,Afghanistan,3,1,2,33.3
+United Arab Emirates,Canada,1,0,1,0.0
+United Arab Emirates,India,1,0,1,0.0
+United Arab Emirates,Ireland,3,0,3,0.0
+United Arab Emirates,Jersey,1,1,0,100.0
+United Arab Emirates,Namibia,5,3,2,60.0
+United Arab Emirates,Nepal,11,5,6,45.5
+United Arab Emirates,Netherlands,1,1,0,100.0
+United Arab Emirates,Oman,5,1,4,20.0
+United Arab Emirates,Papua New Guinea,6,4,2,66.7
+United Arab Emirates,Scotland,3,0,3,0.0
+United Arab Emirates,United States of America,6,1,5,16.7
+United Arab Emirates,West Indies,3,0,3,0.0
+United Arab Emirates,Zimbabwe,5,1,4,20.0
+United States of America,Canada,2,2,0,100.0
+United States of America,Ireland,1,0,1,0.0
+United States of America,Jersey,1,1,0,100.0
+United States of America,Namibia,4,3,1,75.0
+United States of America,Nepal,5,2,3,40.0
+United States of America,Netherlands,1,0,1,0.0
+United States of America,Oman,4,1,3,25.0
+United States of America,Papua New Guinea,7,5,2,71.4
+United States of America,Scotland,5,2,3,40.0
+United States of America,United Arab Emirates,3,2,1,66.7
+West Indies,Afghanistan,4,2,2,50.0
+West Indies,Australia,13,2,11,15.4
+West Indies,Bangladesh,22,6,16,27.3
+West Indies,Canada,2,2,0,100.0
+West Indies,England,19,5,14,26.3
+West Indies,India,30,7,23,23.3
+West Indies,Ireland,7,4,3,57.1
+West Indies,Nepal,1,1,0,100.0
+West Indies,Netherlands,3,2,1,66.7
+West Indies,New Zealand,11,4,7,36.4
+West Indies,Pakistan,18,4,14,22.2
+West Indies,Scotland,2,1,1,50.0
+West Indies,South Africa,15,2,13,13.3
+West Indies,Sri Lanka,12,2,10,16.7
+West Indies,United Arab Emirates,2,2,0,100.0
+West Indies,United States of America,1,1,0,100.0
+West Indies,Zimbabwe,8,7,1,87.5
+World-XI,Asia XI,1,0,1,0.0
+Zimbabwe,Afghanistan,15,5,10,33.3
+Zimbabwe,Australia,2,0,2,0.0
+Zimbabwe,Bangladesh,30,6,24,20.0
+Zimbabwe,Canada,1,1,0,100.0
+Zimbabwe,Hong Kong,1,1,0,100.0
+Zimbabwe,India,11,0,11,0.0
+Zimbabwe,Ireland,11,3,8,27.3
+Zimbabwe,Kenya,7,7,0,100.0
+Zimbabwe,Netherlands,4,1,3,25.0
+Zimbabwe,New Zealand,4,0,4,0.0
+Zimbabwe,Oman,1,1,0,100.0
+Zimbabwe,Pakistan,14,2,12,14.3
+Zimbabwe,Scotland,1,0,1,0.0
+Zimbabwe,South Africa,9,0,9,0.0
+Zimbabwe,Sri Lanka,16,2,14,12.5
+Zimbabwe,United Arab Emirates,1,1,0,100.0
+Zimbabwe,United States of America,1,1,0,100.0
+Zimbabwe,West Indies,17,4,13,23.5
