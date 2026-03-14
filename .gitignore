@@ -1,7 +1,10 @@
 # Raw data files - too large for GitHub
-data/*.csv
-data/*.xlsx
-data/raw/
+data/odi_bbb-25.csv
+data/t20_bbb.csv
+data/test_bbb-25.csv
+Data/odi_bbb-25.csv
+Data/t20_bbb.csv
+Data/test_bbb-25.csv
 
 # Python cache
 __pycache__/
